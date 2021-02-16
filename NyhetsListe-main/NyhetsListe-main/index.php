@@ -92,7 +92,7 @@ session_start();
                 <a class="dropdown-item" href="register.php">Registrer</a>
                 <a class="dropdown-item" href="logout.php">Logg av</a>
                 <a class="dropdown-item" href="#">Min side</a>
-                <a class="dropdown-item" href="#">test1</a>
+                <a class="dropdown-item" href="#">test</a>
            </div>
           </div>
         </div>
