@@ -91,7 +91,6 @@ session_start();
                 <a class="dropdown-item" href="login.php">Login</a>
                 <a class="dropdown-item" href="register.php">Registrer</a>
                 <a class="dropdown-item" href="logout.php">Logg av</a>
-                <a class="dropdown-item" href="logout.php">detfunker</a>
                 <a class="dropdown-item" href="#">Min side</a>
            </div>
           </div>
