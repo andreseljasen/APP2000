@@ -24,7 +24,7 @@ session_start();
     <link href="css/styles.css" rel="stylesheet" />
     <link href="css/bootstrap.css" rel="stylesheet" />
 
-    <title>NyhetsListe heihasia</title>
+    <title>NyhetsListe</title>
   </head>
   <body>
     <div class="container-fluid h-100">
