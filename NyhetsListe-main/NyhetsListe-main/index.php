@@ -7,6 +7,7 @@ session_start();
 <!DOCTYPE html>
 <html lang="en">
 
+<<<<<<< HEAD
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -24,6 +25,15 @@ session_start();
       <div class="row d-flex justify-content-center">
         <div class="col">
           <div class="d-flex justify-content-center align-items-center">
+=======
+    <title>NyhetsListe heihasia</title>
+  </head>
+  <body>
+    <div class="container-fluid h-100">
+      <div class="row controls-bar">
+        <div class="col-2">
+          <div class="d-flex justify-content-center align-items-center h-100">
+>>>>>>> aaf6f4ecb9221c7eb8ddafa798edf515204cc47a
             <div>
               <div style="color: white">
                 <img src="img/logo.svg" alt="logo" class="w-h-100" />
